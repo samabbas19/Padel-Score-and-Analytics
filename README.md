@@ -2,9 +2,11 @@
 
 Player and ball tracking, court projection, and experimental point-event scoring from match video.
 
-[![Automatically looping preview of Padel Score & Match Analytics](assets/preview.gif)](assets/demo.mp4)
+![Full-length automatically looping demo of Padel Score & Match Analytics](assets/preview.gif)
 
-**[Watch the demo](assets/demo.mp4)** · **[Technical approach](docs/architecture.md)** · **[Evaluation](results/metrics.md)** · **[Media notes](docs/media.md)**
+The complete main demo plays here automatically as a silent looping animation. No play button or dropdown is needed.
+
+**[Open MP4 version](assets/demo.mp4)** · **[Technical approach](docs/architecture.md)** · **[Evaluation](results/metrics.md)** · **[Media notes](docs/media.md)**
 
 Recorded project output; the animation plays automatically. See evidence boundaries below.
 
@@ -56,4 +58,3 @@ Selected project code, documentation, curated demonstration media, and available
 Derived from Joao-M-Silva/padel_analytics. The original README and CC BY-NC-SA 4.0 license are retained. This publication adds a case-study README, curated media, aggregate evaluation presentation, and includes the supplied local scoring/backend extensions. Individual authorship of every inherited module is not claimed.
 
 Upstream: [Joao-M-Silva/padel_analytics](https://github.com/Joao-M-Silva/padel_analytics). See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
-
