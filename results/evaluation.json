@@ -1,0 +1,25 @@
+{
+  "provenance": "Transcribed aggregate fields from the supplied local padel evaluation reports; not rerun model inference.",
+  "source_reports": [
+    "gameplay_point_proposal_label_report.json",
+    "gameplay_winner_attribution_report.json",
+    "gameplay_proposal_validation_report.json"
+  ],
+  "timing_tolerance_seconds": 2.0,
+  "point_proposals": {
+    "labels": 8, "proposals": 9, "matched_labels": 5,
+    "missed_labels": 3, "extra_proposals": 4,
+    "precision": 0.555556, "recall": 0.625, "success": false
+  },
+  "winner_attribution": {
+    "matched_events": 5, "winner_matches": 4,
+    "winner_mismatches": 1, "accuracy_on_matched_events": 0.8,
+    "success": false
+  },
+  "score_timeline": {
+    "comparable_frames": 373, "frame_matches": 0,
+    "frame_mismatches": 373, "frame_accuracy": 0.0,
+    "matched_events": 0, "missed_events": 8,
+    "extra_events": 11, "rule_violation_count": 0, "success": false
+  }
+}

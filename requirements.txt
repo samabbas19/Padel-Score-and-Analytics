@@ -1,0 +1,16 @@
+kaleido
+ffmpeg
+fastapi
+httpx
+matplotlib
+opencv-python
+pandas
+pims
+plotly
+seaborn 
+supervision
+tqdm
+ultralytics
+streamlit
+parse
+uvicorn
